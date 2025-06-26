@@ -4,7 +4,7 @@ A little backstory about how this project came to be. I was looking for a job in
 
 ## Usage (app)
 
-![front](images\front.PNG)
+![front](scrappy/images/front.PNG)
 
 ## Usage (python)
 ```python
